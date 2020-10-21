@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tunisian Student</title>
+    <description>Home of all Tunisian Students.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 21 Oct 2020 19:02:31 +0100</pubDate>
+    <lastBuildDate>Wed, 21 Oct 2020 19:02:31 +0100</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Apply Now and join our family !</title>
+        <description>&lt;p&gt;TO DO&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;TO DO
+TO DO&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sun, 02 Feb 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/les-ambassadeurs/</link>
+        <guid isPermaLink="true">http://localhost:4000/les-ambassadeurs/</guid>
+        
+        <category>Tunisia</category>
+        
+        <category>Student</category>
+        
+        
+        <category>Form</category>
+        
+      </item>
+    
+  </channel>
+</rss>
